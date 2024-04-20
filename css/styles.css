@@ -1,7 +1,4 @@
-h1 {
-    color: blue;
-}
-
-a{
-    text-decoration: none;
+.navbar{
+    width: 100% !important;
+    height: 100px !important;
 }
